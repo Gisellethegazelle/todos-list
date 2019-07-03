@@ -81,7 +81,7 @@ function showCompleted() {
   var HTML = "";
 
   for(var g=o; g < completed.length; g++){
- HTML +=  `<div>< class= "far fa-circle"></li> ${completed[i]}</div>`;
+ HTML +=  `<div>< class= "far fa-circle"></li> ${completed[g]}</div>`;
   } 
 
  
